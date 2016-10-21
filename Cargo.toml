@@ -1,0 +1,6 @@
+[package]
+name = "bbg-motor-bridge-cape"
+version = "0.1.0"
+authors = ["Jérôme Guéry <jerome.guery@gmail.com>"]
+
+[dependencies]
